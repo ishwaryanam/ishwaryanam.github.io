@@ -5,4 +5,5 @@
 body {
   background: var(--cg-grey);
   font-size: 14px;
-};
+}
+
