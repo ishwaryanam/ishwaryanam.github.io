@@ -17,7 +17,7 @@ body{
     align-items: center;
     text-align: center;
   
-    background-color: var(--cg-black);
+    background-color: rgb(234, 168, 187);
     color: var(--cg-white);
     padding: 0px 0px;
   
