@@ -42,7 +42,6 @@ body{
     margin: 0 12px;
     text-decoration: none;
     letter-spacing: 2px;
-  
     font-family: 'Times New Roman', Times, serif;
   }
 
@@ -72,6 +71,7 @@ body{
 
   .section{
     background-color:rgb(230, 226, 227);
+    border-radius: 1em/5em;
   }
 
   
