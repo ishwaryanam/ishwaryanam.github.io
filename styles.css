@@ -70,13 +70,11 @@ body{
     width: 50%;
   }*/
 
-  .section-title{
+  .section{
     background-color:rgb(230, 226, 227);
   }
 
-  #section-title{
-    background-color:rgb(207, 92, 120);
-  }
+  
 
   img{
     display: block;
