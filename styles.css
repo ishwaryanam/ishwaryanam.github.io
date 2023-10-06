@@ -21,8 +21,8 @@ body{
     color: var(--cg-white);
     padding: 0px 0px;
   
-    /* Debug border */
-    /* border: solid red; */
+    border-radius: 1em/5em;
+    
   }
 
   .nav-list {
@@ -43,7 +43,7 @@ body{
     text-decoration: none;
     letter-spacing: 2px;
   
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Times New Roman', Times, serif;
   }
 
   .navbar a:hover {
