@@ -35,6 +35,17 @@ body{
     /* Debug border */
     /* border: solid blue; */
   }
+
+  .navbar a {
+    color: var(--cg-white);
+    font-weight: bold;
+    margin: 0 12px;
+    text-decoration: none;
+    letter-spacing: 2px;
+  
+    font-family: monospace;
+  }
+
   .navbar a:hover {
     color: var(--cg-blue);
     text-decoration: underline;
