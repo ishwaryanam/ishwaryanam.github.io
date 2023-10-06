@@ -24,3 +24,23 @@ body{
     /* Debug border */
     /* border: solid red; */
   }
+
+  .nav-list {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    right: 30px;
+    list-style: none;
+  
+    /* Debug border */
+    /* border: solid blue; */
+  }
+  .navbar a:hover {
+    color: var(--cg-blue);
+    text-decoration: underline;
+  }
+  
+  .navbar a:active {
+    color: var(--cg-blue);
+  }
+  
