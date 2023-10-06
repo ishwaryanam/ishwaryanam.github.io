@@ -69,3 +69,12 @@ body{
     margin-right: auto;
     width: 50%;
   }
+
+  .class{
+    background-color:rgb(230, 226, 227);
+  }
+
+  #section-title{
+    background-color:rgb(207, 92, 120);
+  }
+
