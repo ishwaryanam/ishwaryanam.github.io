@@ -71,6 +71,7 @@ body{
 
   .section{
     background-color:rgb(234, 168, 187);
+    border-radius: 15px;
     display: block;
   }
 
@@ -80,6 +81,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
   }
 
   .section-title{
