@@ -115,10 +115,12 @@ body{
 
   .project-name{
     justify-content: center;
+    align-items: center;
   }
 
   .project-descriptipn{
     justify-content: center;
+    align-items: center;
   }
   img{
     display: block;
