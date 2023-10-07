@@ -42,6 +42,7 @@ body{
     text-decoration: none;
     letter-spacing: 2px;
     font-family: 'Times New Roman', Times, serif;
+    color: black;
   }
 
   .navbar a:hover {
@@ -49,7 +50,7 @@ body{
   }
   
 
-  
+
   main {
     padding: 0 20px 40px 20px;
     display: flex;
@@ -59,7 +60,7 @@ body{
   }
 
   .download-button{
-        background-color: rgb(234, 168, 187); ;
+     background-color: rgb(234, 168, 187); ;
   }
 
   .logo{
