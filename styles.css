@@ -71,6 +71,7 @@ body{
 
   .section{
     background-color:rgb(234, 168, 187);
+    display: block;
   }
 
   .about-text{
