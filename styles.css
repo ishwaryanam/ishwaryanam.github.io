@@ -74,6 +74,10 @@ body{
     display: block;
   }
 
+  .page-title{
+    color: white
+  }
+
   .about-text{
     display: flex;
     flex-direction: column;
