@@ -18,7 +18,7 @@ body{
     text-align: center;
   
     background-color: rgb(234, 168, 187);
-    color: var(--cg-white);
+    
     padding: 0px 0px;
   
     border-radius: 1em/3em;
@@ -35,7 +35,7 @@ body{
   }
 
   .navbar a {
-    color: var(--cg-white);
+    
     font-weight: bold;
     margin: 0 12px;
     text-decoration: none;
@@ -44,12 +44,11 @@ body{
   }
 
   .navbar a:hover {
-    color: var(--cg-blue);
     text-decoration: underline;
   }
   
   .navbar a:active {
-    color: var(--cg-blue);
+    color: blue;
   }
 
   
@@ -59,6 +58,10 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+  }
+
+  .download-button{
+        background-color: rgb(234, 168, 187); ;
   }
 
   .logo{
