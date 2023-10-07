@@ -73,7 +73,6 @@ body{
     background-color:rgb(234, 168, 187);
     border-radius: 15px;
     background-size: 200;
-    display: inline-block;
   }
 
   
@@ -84,7 +83,6 @@ body{
     align-items: center;
     border-radius: 15px;
     background-size: 50;
-    display: inline-block;
     width: 20px;
     background-color:rgb(234, 168, 187);
   }
