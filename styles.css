@@ -71,7 +71,10 @@ body{
 
   .section{
     background-color:rgb(234, 168, 187);
-    
+  }
+
+  .about-text{
+    justify-content: center;
   }
 
   
