@@ -32,8 +32,6 @@ body{
     right: 30px;
     list-style: none;
   
-    /* Debug border */
-    /* border: solid blue; */
   }
 
   .navbar a {
@@ -63,19 +61,20 @@ body{
     align-items: center;
   }
 
-  /*.center{
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  }*/
+  .logo{
+    font-size: large;
+  }
+
+  .nav-list{
+    font-size: medium;
+  }
 
   .section{
     background-color:rgb(234, 168, 187);
     border-radius: 15px;
     background-size: 200;
     background-size: auto;
-    margin: 10px 300px;
-    border: rgb(225, 55, 103)
+    margin: 0px 300px;
   }
 
   
@@ -86,9 +85,7 @@ body{
     align-items: center;
     border-radius: 15px;
     background-color:rgb(234, 168, 187);
-   /* margin-left: 100px;
-    margin-right: 100px;*/
-    margin: 0px 100px;
+    margin:0 100px;
   }
 
   .section-title{
