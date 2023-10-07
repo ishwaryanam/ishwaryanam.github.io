@@ -73,6 +73,7 @@ body{
     background-color:rgb(234, 168, 187);
     border-radius: 15px;
     background-size: 200;
+    background-size: auto;
   }
 
   
@@ -82,6 +83,7 @@ body{
     justify-content: center;
     align-items: center;
     border-radius: 15px;
+    background-size: auto;
     background-color:rgb(234, 168, 187);
   }
 
