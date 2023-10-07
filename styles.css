@@ -72,6 +72,7 @@ body{
   .section{
     background-color:rgb(234, 168, 187);
     border-radius: 15px;
+    width: 50;
     display: block;
   }
 
