@@ -130,7 +130,7 @@ body{
     flex-direction: column;
   }
 
-  .project-descriptipn{
+  .project-description{
     justify-content: center;
     align-items: center;
     display: flex;
@@ -145,5 +145,7 @@ body{
   }
 
   .home-image{
+    margin: auto;
+    display: block;
     width: 70%;
   }
