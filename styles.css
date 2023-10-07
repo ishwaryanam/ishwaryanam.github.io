@@ -123,6 +123,20 @@ body{
     text-decoration: underline;
   }
 
+  .learn-more{
+    background-color: rgb(234, 168, 187);
+    text-decoration: none;
+    color: black;
+  }
+
+  .learn-more a{
+    text-decoration: none;
+    color: black;
+  }
+
+  .learn-more a:hover {
+    text-decoration: underline;
+  }
   .project-name{
     justify-content: center;
     align-items: center;
