@@ -130,6 +130,7 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
 
   }
 
@@ -166,4 +167,5 @@ body{
     margin: auto;
     display: block;
     width: 300px;
+    
   }
