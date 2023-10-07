@@ -112,6 +112,14 @@ body{
     text-decoration: none;
     color: black;
   }
+
+  .project-name{
+    justify-content: center;
+  }
+
+  .project-descriptipn{
+    justify-content: center;
+  }
   img{
     display: block;
     width: 20%;
