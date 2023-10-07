@@ -82,6 +82,9 @@ body{
     align-items: center;
   }
 
+  .section-title{
+    font-family: 'Times New Roman', Times, serif;
+  }
   
 
   img{
