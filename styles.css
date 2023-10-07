@@ -126,11 +126,15 @@ body{
   .project-name{
     justify-content: center;
     align-items: center;
+    display: flex;
+    flex-direction: column;
   }
 
   .project-descriptipn{
     justify-content: center;
     align-items: center;
+    display: flex;
+    flex-direction: column;
   }
   img{
     display: block;
@@ -138,4 +142,8 @@ body{
     margin: auto;
     margin-bottom: 10px;
     border: white;
+  }
+
+  .home-page{
+    width: 50%;
   }
