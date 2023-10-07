@@ -127,6 +127,10 @@ body{
     background-color: rgb(234, 168, 187);
     text-decoration: none;
     color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
   }
 
   .learn-more a{
