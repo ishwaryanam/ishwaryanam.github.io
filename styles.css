@@ -72,7 +72,7 @@ body{
   .section{
     background-color:rgb(234, 168, 187);
     border-radius: 15px;
-    width: 200;
+    background-size: 200;
     display: block;
   }
 
