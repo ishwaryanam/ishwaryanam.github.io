@@ -65,7 +65,7 @@ body{
   }
 
   .logo{
-    font-size: large;
+    font-size: larger;
   }
 
   .nav-list{
@@ -107,7 +107,9 @@ body{
     font-family: 'Times New Roman', Times, serif;
   }
   
-
+  .download-button{
+    background-color: rgb(234, 168, 187);
+  }
   img{
     display: block;
     width: 20%;
