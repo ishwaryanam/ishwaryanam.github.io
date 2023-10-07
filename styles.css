@@ -109,6 +109,7 @@ body{
   
   .download-button{
     background-color: rgb(234, 168, 187);
+    text-decoration: none;
   }
   img{
     display: block;
